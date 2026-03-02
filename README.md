@@ -11,3 +11,4 @@ Simple Android project.
 ## Installation
 Clone the repository.
 Open in Android Studio.
+Build the project.
