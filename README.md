@@ -24,3 +24,4 @@ Simple Android project.
 - Bug fixes.
 - Refactor code structure.
 - Improve documentation.
+- Minor improvements.
