@@ -30,3 +30,4 @@ Simple Android project.
 <img src="screenshots/splash1.jpg" width="300"/>
 
 # Documentation
+Project documentation will be added here.
