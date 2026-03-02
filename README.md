@@ -16,3 +16,5 @@ Build the project.
 ## Requirements
 Android 9.0+
 Internet connection required.
+
+## Future updates
