@@ -14,3 +14,4 @@ Open in Android Studio.
 Build the project.
 
 ## Requirements
+Android 9.0+
