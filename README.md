@@ -20,3 +20,4 @@ Simple Android project.
 ## Future updates
 - Improve UI.
 - Add more AI models.
+- Optimize performance.
