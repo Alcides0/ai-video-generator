@@ -18,4 +18,5 @@ Simple Android project.
 - Internet connection required.
 
 ## Future updates
-Improve UI.
+- Improve UI.
+- Add more AI models.
