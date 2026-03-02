@@ -6,3 +6,4 @@ Simple Android project.
 
 - AI video generation
 - Text to video support
+- Image to video support
