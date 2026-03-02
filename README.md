@@ -25,3 +25,6 @@ Simple Android project.
 - Refactor code structure.
 - Improve documentation.
 - Minor improvements.
+
+## Screenshots
+<img src="screenshots/splash1.jpg" width="300"/>
