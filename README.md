@@ -22,3 +22,4 @@ Simple Android project.
 - Add more AI models.
 - Optimize performance.
 - Bug fixes.
+- Refactor code structure.
