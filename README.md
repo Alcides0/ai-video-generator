@@ -21,3 +21,4 @@ Simple Android project.
 - Improve UI.
 - Add more AI models.
 - Optimize performance.
+- Bug fixes.
