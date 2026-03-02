@@ -12,3 +12,5 @@ Simple Android project.
 Clone the repository.
 Open in Android Studio.
 Build the project.
+
+## Requirements
