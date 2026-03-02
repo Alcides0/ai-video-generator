@@ -23,3 +23,4 @@ Simple Android project.
 - Optimize performance.
 - Bug fixes.
 - Refactor code structure.
+- Improve documentation.
