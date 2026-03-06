@@ -28,8 +28,8 @@ Simple Android project.
 
 ## Screenshots
 <img src="screenshots/splash1.jpg" width="300"/>
-<img src="screenshots/screens22.jpg" width="300"/>
-<img src="screenshots/home1.jpg" width="300"/>
+<img src="screenshots/screens22.png" width="300"/>
+<img src="screenshots/home1.png" width="300"/>
 
 # Documentation
 Project documentation will be added here.
