@@ -27,7 +27,7 @@ Simple Android project.
 - Minor improvements.
 
 ## Screenshots
-<img src="screenshots/splash1.jpg" width="300"/>
+![App Screenshot](screenshots/splash1.jpg)
 <img src="screenshots/Screens22.png" width="300"/>
 <img src="screenshots/Home1.png" width="300"/>
 
